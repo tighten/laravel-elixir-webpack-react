@@ -10,6 +10,8 @@ npm install --save-dev laravel-elixir-webpack-react
 
 ## Config
 
+In your `gulpfile.js`:
+
 ```
 var elixir = require('laravel-elixir');
 
@@ -19,5 +21,3 @@ elixir(function(mix) {
     mix.webpack('main.js'); // resources/assets/js/main.js
 });
 ```
-
-Want to know how to use React with Laravel? Check out our [blog post](http://blog.tighten.co) on the subject!
