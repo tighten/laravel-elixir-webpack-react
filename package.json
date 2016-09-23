@@ -1,0 +1,26 @@
+{
+  "name": "laravel-elixir-webpack-react",
+  "version": "1.0.0",
+  "description": "A package to provide support for compiling React JSX files in Laravel Elixir 6",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tightenco/laravel-elixir-webpack-react.git"
+  },
+  "keywords": [
+    "laravel",
+    "elixir",
+    "webpack",
+    "react",
+    "jsx"
+  ],
+  "author": "Tighten Co. (samantha@tighten.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tightenco/laravel-elixir-webpack-react/issues"
+  },
+  "homepage": "https://github.com/tightenco/laravel-elixir-webpack-react#readme"
+}
