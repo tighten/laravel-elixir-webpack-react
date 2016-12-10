@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-webpack-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package to provide support for compiling React JSX files in Laravel Elixir 6",
   "main": "main.js",
   "scripts": {
