@@ -14,6 +14,9 @@ Elixir.ready(function() {
                     loader: 'babel'
                 }
             ]
+        },
+        resolve: {
+            extensions: ['', '.js', '.json', '.jsx' ]
         }
     });
 });
